@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerKineticConstants
+public class PlayerMotionConstants
 {
 
     public static float COMPLETE_TURN_ANGLE = 360F;
